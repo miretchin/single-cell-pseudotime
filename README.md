@@ -322,7 +322,7 @@ Manuscript: [Learning Edge Rewiring in EMT from Single Cell Data
 
 ### WADDINGTON-OT
 
-Software: https://pypi.org/project/wot/
+Software: https://github.com/broadinstitute/wot
 
 Manuscript: [Reconstruction of developmental landscapes by optimal-transport analysis of single-cell gene expression sheds light on cellular reprogramming](https://doi.org/10.1101/191056)
 
